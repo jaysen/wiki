@@ -7,8 +7,12 @@ Created Sunday 19 July 2020
 
 [[ZomeWorks]]
 [[PublicText]]
-+[[WikidLibPy]]
-[[:ZimWiki:ZimWikiDev]]
+[[WikidPad:WikidLibPy]]
+
+
+Potentially 
+[[ZimWiki:ZimWikiDev]]
+
 
 
 
