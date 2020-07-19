@@ -1,9 +1,19 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
-Creation-Date: 2020-07-11T19:08:58+02:00
+Creation-Date: 2020-07-19T20:34:10+02:00
 
 ====== Home ======
-Created Saturday 11 July 2020
+Created Sunday 19 July 2020
+a public [[:ZimWiki]] hosted on [[GitHub]] at https://jaysen.github.io/wiki/Home.html  
+published by me, [[JaysenNaidoo]] 
 
-Welcome to [[ZimWiki]]
+===== :[[:Projects|Projects]] =====
+[[ZomeWorks]]
+[[PublicText]]
+[[WikidLibPy]]
+[[:Projects:ZimWikiDev]]
+
+===== [[:Dev]] =====
+[[:Dev:Python]] 
+
 

@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-19T22:06:52+02:00
+
+====== WikidPad ======
+Created Sunday 19 July 2020
+
+[[PersonalWiki]] Software similar to [[ZimWiki]] 
+WikidPad is implemented in, and using [[:Dev:Python]]
+
+[[WikidPad]] is a wiki-like notebook for storing your thoughts, ideas, todo lists, contacts, or anything else you can think of to write down.
+
+What makes WikidPad different from other notepad applications is the ease with which you can cross-link your information. Links in a wiki are created by typing in WikiWords. A WikiWord is mixed case word. TodoList? or JohnDoe are example WikiWords.
+
+see official pages at http://wikidpad.sourceforge.net/ and http://trac.wikidpad2.webfactional.com/
+also https://en.wikipedia.org/wiki/WikidPad
+
+
+
+
+
+@software @wikis 
+

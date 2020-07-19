@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-19T22:15:26+02:00
+
+====== ZomeWorks ======
+
+Created Sunday 19 July 2020
+

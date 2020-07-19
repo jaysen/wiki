@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-19T22:01:38+02:00
+
+====== Sunday 19 Jul 2020 ======
+
+Recreating this public wiki at https://jaysen.github.io/wiki/Home.html based on [[ZimWiki]] 

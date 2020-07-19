@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-19T20:37:40+02:00
+
+====== WikidLibPy ======
+Created Sunday 19 July 2020
+
+Library to work with :[[WikidPad]] in [[:Dev:Python]]
+
+
+

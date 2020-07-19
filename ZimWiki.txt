@@ -1,12 +1,11 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
-Creation-Date: 2020-07-11T19:40:40+02:00
+Creation-Date: 2020-07-19T22:04:44+02:00
 
 ====== ZimWiki ======
-Created Saturday 11 July 2020
 
-A personal wiki notebook. 
-https://www.zim-wiki.org
+[[PersonalWiki]] Software similar to :[[WikidPad]] 
+[[:Dev:Python]] based
 
-like:[[WikidPad]]
 
+Created Sunday 19 July 2020
