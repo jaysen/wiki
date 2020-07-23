@@ -9,6 +9,11 @@ see http://jaysen.co.za
 https://twitter.com/jaysen
 https://github.com/jaysen
 
+[[StackOverflow]]
+C2Wiki
+[[HypothesIs]]
+
+
 [[CategoryPerson]]
 
 

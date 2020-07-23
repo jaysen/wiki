@@ -3,7 +3,7 @@ Wiki-Format: zim 0.6
 Creation-Date: 2020-07-19T20:34:10+02:00
 
 ===== Home =====
-a public [[:ZimWiki]] hosted on [[GitHub]] at https://jaysen.github.io/wiki/Home.html  
+a public [[:ZimWiki]] hosted on GitHub at https://jaysen.github.io/wiki/Home.html  
 published by me, [[JaysenNaidoo]] 
 
 ===== About =====
@@ -11,12 +11,13 @@ published by me, [[JaysenNaidoo]]
 
 ===== Projects =====
 see [[:Projects]] page
-[[ZomeWorks]]
+GitHub
+
 [[PublicText]]
 [[WikidLibPy]]
 [[:Projects:ZimWikiDev]]
 
-[[Dev]]
+===== [[Dev]] =====
 [[:Dev:Python]] 
 
 
