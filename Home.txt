@@ -2,20 +2,23 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2020-07-19T20:34:10+02:00
 
-===== Home =====
-a public [[:ZimWiki]] hosted on GitHub at https://jaysen.github.io/wiki/Home.html  
+===== About =====
+a public [[:Wikis:ZimWiki]] hosted on GitHub at https://jaysen.github.io/wiki/Home.html  
 published by me, [[JaysenNaidoo]] 
 
-===== About =====
+===== Areas =====
+[[:Brain]]
+[[:Sci]]
+[[:Lib]]
+
 
 
 ===== Projects =====
-see [[:Projects]] page
-GitHub
-
-[[PublicText]]
-[[WikidLibPy]]
-[[:Projects:ZimWikiDev]]
+see [[:Proj]] page
+[[Dev:GitHub]]
+PublicText
+WikidLibPy
+[[:Proj:ZimWikiDev]]
 
 ===== [[Dev]] =====
 [[:Dev:Python]] 

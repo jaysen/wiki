@@ -2,16 +2,17 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2020-07-19T20:34:46+02:00
 
-====== Projects ======
+====== Proj ======
 Created Sunday 19 July 2020
 
-[[ZomeWorks]]
-[[PublicText]]
-[[WikidPad:WikidLibPy]]
+[[+ZomeWorks]]
+[[+PublicText]]
+[[Wikis:WikidLibPy]]
 
 
 Potentially 
-[[ZimWiki:ZimWikiDev]]
+[[Wikis:ZimWikiDev]]
+
 
 
 

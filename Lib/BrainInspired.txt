@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-26T13:45:16+02:00
+
+====== BrainInspired ======
+
+A [[:Brain]] and [[CS:AI]] related [[Lib:PodCast]] 
+
+[[Journal:2020:07:26]]
+— Episode on [[MetaCognition]] Confidence [[Brain:Consciousness]] 
+	 https://braininspired.co/podcast/73/
+
+
+.... need to backfill older important episodes
+
+
+
+
+
+--------------------
+
+=== meta ===
+@brain @podcast @media @audio @ai 

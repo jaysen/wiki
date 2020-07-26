@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-19T22:06:52+02:00
+
+====== Wikis ======
+
+===== +PersonalWiki =====
+[[+ZimWiki]]
+[[+WikidPad]]
+
+[[+WikiTools]]
+[[+WikiReplicate]] —  Sync/Copying between [[+ZimWiki]] and [[+WikidPad]] and other desktop and web based wikis
+
+
+
+
+@software @wikis 
+

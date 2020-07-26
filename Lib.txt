@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-24T15:34:05+02:00
+
+====== Library ======
+Namespace=Lib
+
+Books, Media, Articles
+
+
+
+
+---
+Created Friday 24 July 2020
+

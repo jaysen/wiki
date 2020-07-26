@@ -4,7 +4,7 @@ Creation-Date: 2020-07-19T22:04:44+02:00
 
 ====== ZimWiki ======
 
-[[PersonalWiki]] Software similar to :[[WikidPad]] 
+[[Wikis:PersonalWiki]] Software similar to :[[Wikis]] 
 [[:Dev:Python]] based
 
 

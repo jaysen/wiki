@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-26T13:49:43+02:00
+
+====== HamsterWheel ======
+what I'm calling the treadmill
+that i'm walking on while in my little lockdown cage
+all very healthy
+it doubles as a [[StandingDesk]] 
+audio, video works great .. but typing isn't that practical yet. I want to fix this.
+
+
+--------------------
+Created Sunday 26 July 2020
+
