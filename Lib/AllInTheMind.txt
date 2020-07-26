@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-26T14:27:44+02:00
+
+====== AllInTheMind ======
+
+A [[lib:PodCast|PodCast]] on [[:Brain]] 
+
+https://www.abc.net.au/radionational/programs/allinthemind/
+
+i think it used to produce better content ....
+
+--------------------
+Created Sunday 26 July 2020
+@podcast @brain @audio [[Category:Podcasts]] [[Category:Brain]] 
+

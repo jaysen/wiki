@@ -11,5 +11,9 @@ Creation-Date: 2020-07-19T22:07:45+02:00
 
 [[+GitHub]]
 
-....
-CategoryDev 
+
+see also [[:CS]] 
+--------------------
+@category @area @dev @compsci 
+[[Category:Dev]] [[Category:CS]] 
+ 

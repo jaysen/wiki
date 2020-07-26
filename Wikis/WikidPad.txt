@@ -14,5 +14,6 @@ What makes WikidPad different from other notepad applications is the ease with w
 see official pages at http://wikidpad.sourceforge.net/ and http://trac.wikidpad2.webfactional.com/
 also https://en.wikipedia.org/wiki/WikidPad
 
-----
+--------------------
 Created Sunday 19 July 2020
+@wiki @software @tools 

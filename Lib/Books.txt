@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-26T14:30:08+02:00
+
+====== Books ======
+
+see [[lib:GoodReads]] 
+
+--------------------
+Created Sunday 26 July 2020
+[[Category:Library]] [[Category:Books]] 

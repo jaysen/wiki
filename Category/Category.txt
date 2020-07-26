@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-26T14:18:48+02:00
+
+====== Category ======
+
+The Wki:Categories idea ... using [[Wiki:SubPages]] in [[Wikis:ZimWiki]]
+ 
+
+
+--------------------
+Created Sunday 26 July 2020
+

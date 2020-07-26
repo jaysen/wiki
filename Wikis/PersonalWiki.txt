@@ -4,4 +4,11 @@ Creation-Date: 2020-07-19T23:05:02+02:00
 
 ====== PersonalWiki ======
 
+desktop wiki software . 
+[[Wikis:ZimWiki]] 
+[[Wikis:WikidPad]]
+
+
+--------------------
+@wiki @tools @software @knowledge
 

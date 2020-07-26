@@ -4,7 +4,8 @@ Creation-Date: 2020-07-19T23:02:24+02:00
 
 ====== JaysenNaidoo ======
 
-see http://jaysen.co.za
+see http://jaysen.co.za (https://jaysen.github.io)
+and this public wiki : https://jaysen.github.io/wiki/Home.html
 
 https://twitter.com/jaysen
 https://github.com/jaysen
@@ -14,7 +15,7 @@ C2Wiki
 [[HypothesIs]]
 
 
-CategoryPerson
+[[Category:Person]] 
 
 
  

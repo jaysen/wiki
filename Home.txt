@@ -3,15 +3,16 @@ Wiki-Format: zim 0.6
 Creation-Date: 2020-07-19T20:34:10+02:00
 
 ===== About =====
-a public [[:Wikis:ZimWiki]] hosted on GitHub at https://jaysen.github.io/wiki/Home.html  
+
+a public [[Wikis:ZimWiki]] ZimWiki hosted on GitHub at https://jaysen.github.io/wiki/Home.html  
 published by me, [[JaysenNaidoo]] 
 
+===== Quick Links =====
+[[Lib:Podcast|Podcasts]] 
+[[Journal]]
+
 ===== Areas =====
-[[:Brain]]
-[[:Sci]]
-[[:Lib]]
-
-
+[[:Brain]] [[:Sci]] [[:Lib]] [[:Dev]] 
 
 ===== Projects =====
 see [[:Proj]] page
@@ -20,7 +21,5 @@ PublicText
 WikidLibPy
 [[:Proj:ZimWikiDev]]
 
-===== [[Dev]] =====
-[[:Dev:Python]] 
 
 

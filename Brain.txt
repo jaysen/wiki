@@ -9,9 +9,19 @@ understanding, theory, optimising, etc, etc
 [[Lib:Innate]]
 [[Lib:HowWeLearn]]
 
+see all [[Lib:Books|Books]]
+
+===== Podcasts =====
+[[Lib:BrainInspired]]
+[[Lib:BrainSciencePodcast]]
+[[Lib:AllInTheMind]]
+
+see all [[Lib:PodCast|PodCasts]]
 
 
 
----
+
+--------------------
 Created Friday 24 July 2020
-
+[[Category:Brain]] 
+@brain @area @category @science 

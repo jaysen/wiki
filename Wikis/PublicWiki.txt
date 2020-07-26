@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-26T14:13:29+02:00
+
+====== PublicWiki ======
+
+Here I mean a wiki that is at least visible to the public. Properly public would be read/writeable by public
+
+[[Proj:PublicText]] 
+
+--------------------
+Created Sunday 26 July 2020
+@wiki @public 

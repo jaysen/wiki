@@ -3,13 +3,15 @@ Wiki-Format: zim 0.6
 Creation-Date: 2020-07-24T15:34:05+02:00
 
 ====== Library ======
-Namespace=Lib
 
-Books, Media, Articles
-
+[[Lib:Books]] , [[Lib:Media]] , [[Lib:Articles]] , [[lib:PodCast]]
 
 
 
----
+
+
+--------------------
 Created Friday 24 July 2020
+[[Category:Library]] 
+
 

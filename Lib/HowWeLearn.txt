@@ -3,10 +3,12 @@ Wiki-Format: zim 0.6
 Creation-Date: 2020-07-24T15:32:39+02:00
 
 ====== HowWeLearn ======
+
 Author: [[Lib:StanislasDehaene]] 
 on the [[:Brain]] - learning. pretty current. pretty accessible for the layperson. pretty useful for anyone with a brain.
 
 first heard interview on the [[Lib:BrainSciencePodcast]] 
 
----
+--------------------
 Created Friday 24 July 2020
+[[Category:Books]] see [[lib:Books]] 

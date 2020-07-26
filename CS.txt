@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-26T14:32:54+02:00
+
+====== Computer Science ======
+
+see [[:Dev]] 
+
+
+
+--------------------
+Created Sunday 26 July 2020
+namespace=cs
+@compsci 
+[[Category:CS]] 

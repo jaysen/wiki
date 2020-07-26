@@ -11,8 +11,7 @@ Ginger Campbell
 
 
 
----
+--------------------
 Created Sunday 26 July 2020
-type:[[PodCast]]
-[[CategoryPodcast]] [[CategoryBrain]] 
+[[Category:Podcasts]] [[Category:Brain]]  
 @brain @podcast @audio @media 

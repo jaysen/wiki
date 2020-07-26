@@ -4,7 +4,10 @@ Creation-Date: 2020-07-19T22:24:21+02:00
 
 ====== Journal ======
 
+[[Journal:2020]]
+[[Journal:2020:07]] 
 
+misc subpages
 [[+HamsterWheel]] 
 
 
